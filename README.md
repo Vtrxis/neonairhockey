@@ -54,3 +54,7 @@ A biblioteca Minim é responsável pelos efeitos sonoros do jogo.
 # Assets
 
 Os sons e sprites utilizados no jogo estão na pasta `data/`.
+
+<img width="1279" height="748" alt="Captura de tela 2026-05-21 111548" src="https://github.com/user-attachments/assets/54d23892-3110-4e97-bf5a-67f0b9b17aef" />
+<img width="1277" height="717" alt="Captura de tela 2026-05-21 111556" src="https://github.com/user-attachments/assets/39879fba-2d4b-4831-a418-ee20f1617d03" />
+
